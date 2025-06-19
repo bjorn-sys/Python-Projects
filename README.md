@@ -1,5 +1,5 @@
 
-# 📈 eCommerce Customer Spending Analysis
+# 📈 E-Commerce Customer Spending Analysis
 
 # 🧾 Overview
 
